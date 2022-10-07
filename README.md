@@ -1,2 +1,2 @@
-# dio-java-bootcamp
+# DIO - Java BootCamp
 Primeiro repositório do BootCamp de Java - iFood
